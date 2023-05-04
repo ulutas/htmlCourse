@@ -1,0 +1,33 @@
+/***************** Layout *****************/
+/* p, h1, body {} */
+/* class -> .text-red {} */
+/* id -> #id-bilgisi {} */
+h1, h2, h3, h4,h5,h6 {
+    color: #202020;
+}
+h1 {
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+
+#first-article {
+    font-size: 40px;
+    background-color: burlywood;
+    border: 2px solid blue;
+    margin: 50px;
+}
+
+.text-red {
+    color: red;
+}
+.fs-14 {
+    font-size: 14px;
+}
+.fs-28 {
+    font-size: 28px;
+}
+.fs-56 {
+    font-size: 56px;
+}

@@ -1,0 +1,28 @@
+
+img {
+    width: 45%;
+}
+h2 {
+    font-size: 22px;
+    color: rgb(143, 173, 8);
+}
+p {
+    font-family: 'Comme', sans-serif;
+    font-size: 18px;
+}
+.head {
+    font-family: 'Comme', sans-serif;
+    font-size: 22px;
+    color: #850000;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.menu {
+    color:rgb(60, 60, 192);
+}
+.productList {
+    margin-left: 40%;
+    font-family: 'Comme', sans-serif;
+    font-size: 18px;
+        
+}
