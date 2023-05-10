@@ -1,0 +1,46 @@
+nav {
+    margin: 2px 6%;
+    text-align: center;
+    width: 90%;
+}
+.center {
+    margin: 0 38%;
+    display: block;
+}
+.search {
+    margin: 1px 6%;
+    text-align: center;  
+    background-color: rgba(232, 229, 229, 0.704);
+    width: 90%;
+}
+.navbar1 {
+    margin: 0 1px;
+    padding: 0;
+    width: 482px;
+    height: 75px;    
+    float: left;    
+    font-size: 16px;
+    background-color: rgb(75, 217, 227);
+}
+.navbar2 {
+    margin: 0 1px;
+    padding: 0;
+    width: 280px;
+    height: 75px;
+    float: left;
+    background-color: rgba(68, 187, 205, 0.955);
+    font-size: 13px;
+}
+.navbar3 {
+    width: 602px;
+    padding: 0;
+    height: 75px;
+    float: left;
+    background-color: rgb(48, 143, 194);
+    font-size: 13px;
+}
+.font {
+    margin: 95px 45%;
+    font-size: small;
+    text-align: center;
+}
